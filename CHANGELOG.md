@@ -1,8 +1,5 @@
 ## ChangeLog
 
-#### Version 0.7.11 (09.06.2025)
-- [bugfix:] Changed foreground type to location
-
 #### Version 0.7.10 (25.06.2024)
 - [bugfix:] Fix foreground type dataSync
 
