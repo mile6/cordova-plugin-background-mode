@@ -1,5 +1,8 @@
 ## ChangeLog
 
+#### Version 0.7.12 (09.06.2025)
+- [bugfix:] Added stopSelf() when stop background mode
+
 #### Version 0.7.10 (25.06.2024)
 - [bugfix:] Fix foreground type dataSync
 

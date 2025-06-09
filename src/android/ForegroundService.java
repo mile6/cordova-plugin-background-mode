@@ -157,6 +157,8 @@ public class ForegroundService extends Service {
             wakeLock.release();
             wakeLock = null;
         }
+
+        stopSelf();
     }
 
     /**
